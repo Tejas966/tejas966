@@ -3,13 +3,16 @@
 **Computer Engineering Student | Backend Development, AI/ML & FinTech**
 
 Third-year student at KBTCOE Nashik (SPPU), building backend systems that solve real financial problems.
-
 ## 🚀 Currently
 
-- Technical Intern at **The Content Company**: LangGraph data pipelines, OAuth 2.0 integrations and multi-tenant auth on AWS
-- Completed the **FinTech & AI program at BITSoM** (capstone: Paytm FinTech Analytics & AI Platform)
-- Learning Go and [PostgreSQL / delete if not applicable]
-- Open to backend and FinTech internships
+- Looking for **backend and FinTech internships**
+- Building FinTech and AI projects
+- Learning Go 
+
+## 💼 Experience
+
+- **Technical Intern, The Content Company** (Jun–Sep 2026): LangGraph data pipelines, OAuth 2.0 integrations and multi-tenant auth on AWS
+- **BITSoM FinTech & AI program**: capstone on the Paytm FinTech Analytics & AI Platform
 
 ## 🛠️ Tech Stack
 
