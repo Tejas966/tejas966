@@ -40,4 +40,4 @@ Alternative credit scoring · transaction processing · fraud detection · appli
 
 ## 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/tejas-joshi-cs/) · tejasjoshi966@gmail.com
+  [Portfolio](https://tejas-joshi-portfolio.vercel.app/) . [LinkedIn](https://www.linkedin.com/in/tejas-joshi-cs/) · tejasjoshi966@gmail.com
