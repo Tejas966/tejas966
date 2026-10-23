@@ -1,0 +1,37 @@
+name: update-profile
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"      # refresh stats every 6 hours
+  workflow_dispatch: {}          # "Run workflow" button in the Actions tab
+  push:
+    branches: [main]
+    paths: ["assets/**", "scripts/**"]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow
+      - name: Generate face + stats SVGs
+        env:
+          GH_LOGIN: Tejas966
+          # Optional: add a classic PAT with `read:user` as repo secret STATS_TOKEN
+          # to include private contributions. Falls back to the built-in token.
+          GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/ascii_face.py --cols 100
+          python scripts/stats.py
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist
+          git diff --cached --quiet || (git commit -m "chore: refresh profile graphics" && git push)
