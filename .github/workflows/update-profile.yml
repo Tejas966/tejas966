@@ -27,7 +27,7 @@ jobs:
           # to include private contributions. Falls back to the built-in token.
           GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
         run: |
-          python scripts/ascii_face.py --cols 100
+          python scripts/ascii_face.py --cols 100 --src face.png
           python scripts/stats.py
       - name: Commit changes
         run: |
