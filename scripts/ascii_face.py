@@ -79,8 +79,8 @@ def build(src: Path, cols: int, seconds: float, invert=None):
         "<style>",
         "text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace;"
         f"font-size:{FONT_SIZE}px;white-space:pre}}",
-        ".r{opacity:0;animation:show .01s steps(1) forwards}",
-        "@keyframes show{to{opacity:1}}",
+        ".r{animation:show .01s steps(1) backwards}",       # visible by default; hidden only while waiting its turn
+        "@keyframes show{from{opacity:0}}",
         "@keyframes blink{50%{opacity:0}}",
         ".cur{animation:blink 1s steps(1) infinite}",
         "</style>",
@@ -122,3 +122,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
