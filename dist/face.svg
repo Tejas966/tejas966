@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="445" height="544" viewBox="0 0 445 544" role="img" aria-label="ASCII portrait of Tejas Joshi">
 <style>
 text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace;font-size:7.0px;white-space:pre}
-.r{opacity:0;animation:show .01s steps(1) forwards}
-@keyframes show{to{opacity:1}}
+.r{animation:show .01s steps(1) backwards}
+@keyframes show{from{opacity:0}}
 @keyframes blink{50%{opacity:0}}
 .cur{animation:blink 1s steps(1) infinite}
 </style>
