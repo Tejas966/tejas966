@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="760" viewBox="0 0 760 760" role="img" aria-label="GitHub stats">
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace}.big{font-size:44px;fill:#e6edf3}.lbl{font-size:11px;letter-spacing:2px;fill:#8b949e}.nm{font-size:14px;fill:#e6edf3;font-weight:700}.mt{font-size:13px;fill:#8b949e}.sub{font-size:13px;fill:#8b949e}.hm{font-size:11px;fill:#e6edf3}.fade{opacity:0;animation:f .8s ease forwards}@keyframes f{to{opacity:1}}</style>
+<rect width="100%" height="100%" fill="#0b0e14"/>
+<g class="fade">
+<text x="60" y="80" class="big">2</text><text x="60" y="108" class="sub">current streak</text>
+<line x1="330" y1="40" x2="330" y2="120" stroke="#484f58"/>
+<text x="380" y="80" class="big">3</text><text x="380" y="108" class="sub">longest streak</text>
+<text x="380" y="128" class="mt">sep 01 – sep 03</text>
+<text x="60" y="175" class="lbl">BY BYTES</text>
+<text x="60" y="201" class="nm">typescript</text>
+<rect x="162" y="191" width="150" height="10" rx="3" fill="#c9d1d9"/>
+<text x="360" y="201" text-anchor="end" class="mt">44%</text>
+<text x="60" y="228" class="nm">javascript</text>
+<rect x="162" y="218" width="80" height="10" rx="3" fill="#c9d1d9"/>
+<text x="360" y="228" text-anchor="end" class="mt">24%</text>
+<text x="60" y="255" class="nm">python</text>
+<rect x="162" y="245" width="42" height="10" rx="3" fill="#c9d1d9"/>
+<text x="360" y="255" text-anchor="end" class="mt">12%</text>
+<text x="60" y="282" class="nm">html</text>
+<rect x="162" y="272" width="37" height="10" rx="3" fill="#c9d1d9"/>
+<text x="360" y="282" text-anchor="end" class="mt">11%</text>
+<text x="60" y="309" class="nm">css</text>
+<rect x="162" y="299" width="19" height="10" rx="3" fill="#c9d1d9"/>
+<text x="360" y="309" text-anchor="end" class="mt">6%</text>
+<text x="430" y="175" class="lbl">BY REPOS</text>
+<text x="430" y="201" class="nm">python</text>
+<rect x="532" y="191" width="150" height="10" rx="3" fill="#c9d1d9"/>
+<text x="730" y="201" text-anchor="end" class="mt">3</text>
+<text x="430" y="228" class="nm">typescript</text>
+<rect x="532" y="218" width="150" height="10" rx="3" fill="#c9d1d9"/>
+<text x="730" y="228" text-anchor="end" class="mt">3</text>
+<text x="430" y="255" class="nm">html</text>
+<rect x="532" y="245" width="100" height="10" rx="3" fill="#c9d1d9"/>
+<text x="730" y="255" text-anchor="end" class="mt">2</text>
+<text x="430" y="282" class="nm">c</text>
+<rect x="532" y="272" width="50" height="10" rx="3" fill="#c9d1d9"/>
+<text x="730" y="282" text-anchor="end" class="mt">1</text>
+<text x="430" y="309" class="nm">jupyter notebook</text>
+<rect x="532" y="299" width="50" height="10" rx="3" fill="#c9d1d9"/>
+<text x="730" y="309" text-anchor="end" class="mt">1</text>
+<text x="60" y="352" class="lbl">THE YEAR</text>
+<text x="60" y="374" class="sub">27 of 370 days had a contribution</text>
+<text x="640" y="374" text-anchor="end" class="mt">less  :  +  #  @  more</text>
+<text class="mt" x="90.0" y="493" style="font-size:11px">oct</text>
+<text class="mt" x="124.2" y="493" style="font-size:11px">nov</text>
+<text class="mt" x="169.8" y="493" style="font-size:11px">dec</text>
+<text class="mt" x="215.4" y="493" style="font-size:11px">jan</text>
+<text class="hm" x="249.6" y="467">@</text>
+<text class="mt" x="261.0" y="493" style="font-size:11px">feb</text>
+<text class="mt" x="306.6" y="493" style="font-size:11px">mar</text>
+<text class="hm" x="340.8" y="467">+</text>
+<text class="hm" x="363.6" y="419">+</text>
+<text class="hm" x="363.6" y="467">@</text>
+<text class="mt" x="363.6" y="493" style="font-size:11px">apr</text>
+<text class="hm" x="386.4" y="431">+</text>
+<text class="hm" x="409.2" y="455">+</text>
+<text class="hm" x="409.2" y="467">+</text>
+<text class="mt" x="409.2" y="493" style="font-size:11px">may</text>
+<text class="mt" x="466.2" y="493" style="font-size:11px">jun</text>
+<text class="mt" x="511.8" y="493" style="font-size:11px">jul</text>
+<text class="mt" x="557.4" y="493" style="font-size:11px">aug</text>
+<text class="hm" x="580.2" y="419">+</text>
+<text class="hm" x="580.2" y="431">:</text>
+<text class="hm" x="580.2" y="467">:</text>
+<text class="hm" x="603.0" y="419">#</text>
+<text class="hm" x="603.0" y="431">+</text>
+<text class="hm" x="603.0" y="443">+</text>
+<text class="hm" x="603.0" y="467">+</text>
+<text class="hm" x="614.4" y="395">:</text>
+<text class="hm" x="614.4" y="419">+</text>
+<text class="mt" x="614.4" y="493" style="font-size:11px">sep</text>
+<text class="hm" x="625.8" y="467">:</text>
+<text class="hm" x="637.2" y="419">#</text>
+<text class="hm" x="637.2" y="443">:</text>
+<text class="hm" x="637.2" y="455">:</text>
+<text class="hm" x="660.0" y="419">@</text>
+<text class="hm" x="660.0" y="455">#</text>
+<text class="mt" x="660.0" y="493" style="font-size:11px">oct</text>
+<text class="hm" x="671.4" y="431">:</text>
+<text class="hm" x="682.8" y="407">@</text>
+<text class="hm" x="682.8" y="419">@</text>
+<text class="hm" x="682.8" y="443">+</text>
+<text class="hm" x="682.8" y="455">#</text>
+<text class="mt" x="52" y="407" style="font-size:11px">mon</text>
+<text class="mt" x="52" y="431" style="font-size:11px">wed</text>
+<text class="mt" x="52" y="455" style="font-size:11px">fri</text>
+<text x="60" y="590" style="font-size:64px;fill:#e6edf3" font-family="monospace">121</text>
+<text x="60" y="620" class="sub">contributions in the last year</text>
+<text x="700" y="560" text-anchor="end" style="font-size:26px;fill:#e6edf3;font-weight:700">27</text><text x="700" y="580" text-anchor="end" class="mt">active days</text><text x="700" y="612" text-anchor="end" style="font-size:26px;fill:#e6edf3;font-weight:700">30</text><text x="700" y="632" text-anchor="end" class="mt">best week</text>
+<path d="M60,705 L60.0,705.0 L72.3,705.0 L84.6,705.0 L96.9,705.0 L109.2,705.0 L121.5,705.0 L133.8,705.0 L146.2,705.0 L158.5,705.0 L170.8,705.0 L183.1,705.0 L195.4,705.0 L207.7,705.0 L220.0,705.0 L232.3,688.5 L244.6,705.0 L256.9,705.0 L269.2,705.0 L281.5,705.0 L293.8,705.0 L306.2,705.0 L318.5,705.0 L330.8,699.5 L343.1,705.0 L355.4,666.5 L367.7,705.0 L380.0,701.3 L392.3,705.0 L404.6,697.7 L416.9,705.0 L429.2,705.0 L441.5,705.0 L453.8,705.0 L466.2,705.0 L478.5,705.0 L490.8,705.0 L503.1,705.0 L515.4,705.0 L527.7,705.0 L540.0,705.0 L552.3,705.0 L564.6,705.0 L576.9,705.0 L589.2,695.8 L601.5,705.0 L613.8,683.0 L626.2,699.5 L638.5,703.2 L650.8,690.3 L663.1,705.0 L675.4,664.7 L687.7,703.2 L700.0,650.0 L700,705 Z" fill="#2d333b"/>
+<path d="M60.0,705.0 L72.3,705.0 L84.6,705.0 L96.9,705.0 L109.2,705.0 L121.5,705.0 L133.8,705.0 L146.2,705.0 L158.5,705.0 L170.8,705.0 L183.1,705.0 L195.4,705.0 L207.7,705.0 L220.0,705.0 L232.3,688.5 L244.6,705.0 L256.9,705.0 L269.2,705.0 L281.5,705.0 L293.8,705.0 L306.2,705.0 L318.5,705.0 L330.8,699.5 L343.1,705.0 L355.4,666.5 L367.7,705.0 L380.0,701.3 L392.3,705.0 L404.6,697.7 L416.9,705.0 L429.2,705.0 L441.5,705.0 L453.8,705.0 L466.2,705.0 L478.5,705.0 L490.8,705.0 L503.1,705.0 L515.4,705.0 L527.7,705.0 L540.0,705.0 L552.3,705.0 L564.6,705.0 L576.9,705.0 L589.2,695.8 L601.5,705.0 L613.8,683.0 L626.2,699.5 L638.5,703.2 L650.8,690.3 L663.1,705.0 L675.4,664.7 L687.7,703.2 L700.0,650.0" fill="none" stroke="#c9d1d9" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="700.0" cy="650.0" r="4" fill="#fff"/>
+</g></svg>
